@@ -3,7 +3,7 @@ var express = require('express')     // framework d'appli
 var app = express()
 var bodyParser = require('body-parser') // BodyParser pour POST
 var http = require('http').Server(app)      // préparer le serveur web
-var dotenv = require('dotenv')
+// var dotenv = require('dotenv')
 var path = require('path')
 
 // configuration ===========================================

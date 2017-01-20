@@ -29,7 +29,7 @@ module.exports = function (controller) {
           "elements":[
              {
               "title":"COMMUNITY SURVEY",
-              "image_url":"",
+              "image_url":"http://www.naturopathiccurrents.com/images/v33%20feb%202016/coffee-1.jpg",
               "subtitle":"Take 5 min and check out our end of year Advertising Awareness Questionnaire.",
               "buttons":[
                 {
@@ -42,7 +42,7 @@ module.exports = function (controller) {
               ]
             },{
               "title":"CHAT TOPIC",
-              "image_url":"",
+              "image_url":"https://dncache-mauganscorp.netdna-ssl.com/thumbseg/1617/1617038-bigthumbnail.jpg",
               "subtitle":"Help us decide on a couple Holiday Menu items.",
               "buttons":[
                 {
@@ -55,7 +55,7 @@ module.exports = function (controller) {
               ]
             },{
               "title":"FEEDBACK TOPIC",
-              "image_url":"",
+              "image_url":"http://cdn.diply.com/img/a22b6d4e-faa9-4e49-9f01-dca3e6fe6b2d.jpg",
               "subtitle":"Share a photo or video on the most effective Marketing you saw over the holiday.",
               "buttons":[
                 {
@@ -87,7 +87,7 @@ module.exports = function (controller) {
               ]
             }, {
               "title":"CHAT TOPIC",
-              "image_url":"",
+              "image_url":"http://fb-timeline-cover.com/covers-images/download/Robot%20Chicken%20Adult%20Swim%20Cartoon.jpg",
               "subtitle":"Say hello to Survey Chicken.",
               "buttons":[
                 {

@@ -68,7 +68,7 @@ module.exports = function (controller) {
               ]
             }, {
               "title":"CHAT CHALLENGE",
-              "image_url":"",
+              "image_url":"/images/1_Challenge_Home_Screen.jpg",
               "subtitle":"Why not try one of our chat challenges? Its just 10 questions a day for 10 days.",
               "buttons":[
                 {
